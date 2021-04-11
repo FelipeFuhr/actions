@@ -1,0 +1,12 @@
+name: A workflow action poc
+on: push
+
+jobs:
+  run-busybox:
+    runs-on: ubuntu-20.04
+    container:
+      image: busybox
+    steps:
+        - name: Hello World
+          run: |
+            echo "Hello World"
