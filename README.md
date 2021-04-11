@@ -2,4 +2,4 @@
 
 badge: 
 
-![example workflow](https://github.com/ffreis/actions-poc/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/FelipeFuhr/actions-poc/actions/workflows/main.yml/badge.svg)
